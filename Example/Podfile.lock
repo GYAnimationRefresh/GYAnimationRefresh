@@ -1,0 +1,37 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GYAnimationRefresh (0.1.15):
+    - lottie-ios (= 2.5.2)
+    - Masonry
+  - lottie-ios (2.5.2)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GYAnimationRefresh (from `../`)
+  - lottie-ios (= 2.5.2)
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - lottie-ios
+    - Masonry
+
+EXTERNAL SOURCES:
+  GYAnimationRefresh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GYAnimationRefresh: a32170258f79b0fb2061e2f7a6337e85bf708272
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 800a1e316c58c70c659dd3b4999c162223019d0f
+
+COCOAPODS: 1.11.2

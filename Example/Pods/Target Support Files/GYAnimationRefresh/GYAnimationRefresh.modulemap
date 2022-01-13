@@ -1,0 +1,6 @@
+framework module GYAnimationRefresh {
+  umbrella header "GYAnimationRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
