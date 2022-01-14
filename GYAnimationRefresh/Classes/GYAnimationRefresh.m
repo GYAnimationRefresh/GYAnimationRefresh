@@ -16,7 +16,7 @@
 +(instancetype)GYAnimationRefreshWithScrollView:(UIScrollView *)scrollView mainView:(UIView *)mainView{
     GYAnimationRefresh *gyanimationRefresh = [[self alloc] initWithFrame:CGRectMake(0, scrollView.frame.origin.y, scrollView.frame.size.width, 0) mainView:mainView];
     gyanimationRefresh.scrollView = scrollView;
-    [mainView bringSubviewToFront:scrollView];
+//    [mainView bringSubviewToFront:scrollView];
     [mainView sendSubviewToBack:gyanimationRefresh];
     mainView.backgroundColor = scrollView.backgroundColor;
     scrollView.backgroundColor = [UIColor clearColor];

@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - GYAnimationRefresh (0.1.15):
+  - GYAnimationRefresh (0.1.17):
     - lottie-ios (= 2.5.2)
     - Masonry
   - lottie-ios (2.5.2)
@@ -28,7 +28,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  GYAnimationRefresh: a32170258f79b0fb2061e2f7a6337e85bf708272
+  GYAnimationRefresh: cd34aec2ae62ec6132e3816b8c32fd312cd718a9
   lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 

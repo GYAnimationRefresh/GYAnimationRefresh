@@ -1,6 +1,6 @@
 {
   "name": "GYAnimationRefresh",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": "A short description of GYAnimationRefresh.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/GYAnimationRefresh/GYAnimationRefresh",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/GYAnimationRefresh/GYAnimationRefresh.git",
-    "tag": "0.1.15"
+    "tag": "0.1.17"
   },
   "platforms": {
     "ios": "9.0"
